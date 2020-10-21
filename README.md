@@ -1,2 +1,2 @@
 # design.js
-Client Side Javascript Framework 
+Client Side Javascript Library
